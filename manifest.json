@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/chrome-manifest",
+  "manifest_version": 3,
+  "name": "Test Extension",
+  "version": "0.1",
+  "description": "Hello world from this extension.",
+  "action": {
+    "default_popup": "./index.html"
+  }
+}

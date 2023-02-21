@@ -1,0 +1,6 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/nodemon.json",
+  "watch": ["./src", "./index.html", "./manifest.json"],
+  "ext": "*",
+  "exec": "yarn run build"
+}
